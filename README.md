@@ -17,8 +17,7 @@ Use políticas comuns para:
     Restringir as regiões para recursos implantados.
     Restringir SKUs caras para recursos específicos.
 
-https://learn.microsoft.com/pt-br/training/modules/describe-features-tools-azure-for-governance-compliance/
-    Audite o uso de recursos opcionais importantes, como discos gerenciados pelo Azure.
+ Audite o uso de recursos opcionais importantes, como discos gerenciados pelo Azure.
 
 Aplicar uma política
 
@@ -26,3 +25,5 @@ Para aplicar uma política a um grupo de recursos:
 
     Acesse Azure Policy.
     Selecione Atribuir uma política.
+
+https://learn.microsoft.com/pt-br/training/modules/describe-features-tools-azure-for-governance-compliance/
