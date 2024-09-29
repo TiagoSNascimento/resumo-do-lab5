@@ -2,10 +2,7 @@
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
 
-Governança, segurança e conformidade no Azure
-
-    Artigo
-    14/05/2024
+Governança, segurança e conformidade no Azure.
 
 Você pode usar ferramentas e serviços como a Política do Azure e o Microsoft Defender for Cloud para estabelecer políticas corporativas e planejar suas estratégias de governança. Essas ferramentas e serviços impõem e automatizam as decisões de governança da sua organização. Use a ferramenta de benchmark de governança antes de iniciar seu planejamento de governança para identificar possíveis lacunas na abordagem de governança de nuvem da sua organização. Para obter mais informações sobre como desenvolver processos de governança, consulte Metodologia de governança.
 
